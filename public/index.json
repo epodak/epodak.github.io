@@ -1,0 +1,7 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Epodak Blog",
+    "home_page_url": "https://epodak.github.io/",
+    "feed_url": "https://epodak.github.io/index.json",
+    "items": []
+}
